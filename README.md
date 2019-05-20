@@ -1,3 +1,5 @@
+This is a fork for compatibility php5 + php7
+
 ![Logo](./data/rc_logo_512.png)
 
 # ReportingCloud PHP Wrapper
